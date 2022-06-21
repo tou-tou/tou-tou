@@ -1,4 +1,4 @@
-### Hello! I'm toutou 👋
+###  I'm toutou 👋
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tou-tou&count_private=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tou-tou&hide=javascript,html&count_private=true&layout=compact" /></a> |
 | ------------- | ------------- |
