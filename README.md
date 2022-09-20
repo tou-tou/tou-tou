@@ -10,8 +10,9 @@
 - [:book: Zenn](https://blog.toutounode.com)
 - [:book: Qiita](https://qiita.com/__tou__tou)
 - [:book: Hatena](https://blog.toutounode.com)
+- [[:book: note](https://note.com/tou_tou/)
 - [:book: Self Hosted Blog](https://blog.toutounode.com)
-- [:link: links](https:toutounode.com)
+- [:link: links](https://toutounode.com)
 <!--
 **tou-tou/tou-tou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
