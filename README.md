@@ -10,7 +10,7 @@
 - [:book: Zenn](https://blog.toutounode.com)
 - [:book: Qiita](https://qiita.com/__tou__tou)
 - [:book: Hatena](https://blog.toutounode.com)
-- [[:book: note](https://note.com/tou_tou/)
+- [:book: note](https://note.com/tou_tou/)
 - [:book: Self Hosted Blog](https://blog.toutounode.com)
 - [:link: links](https://toutounode.com)
 <!--
