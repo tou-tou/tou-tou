@@ -7,7 +7,7 @@
 - [🦊 About](https://blog.toutounode.com/article/3feda04f-5280-49d7-9d9f-70db3cda0e57)
 - [:muscle: Work](https://blog.toutounode.com/article/362703de-7a81-4879-8f3d-1d56a9a8536c)
 - [:bird: Twitter](https://twitter.com/__tou__tou)
-- [:book: Zenn](https://blog.toutounode.com)
+- [:book: Zenn](https://zenn.dev/toutou)
 - [:book: Qiita](https://qiita.com/__tou__tou)
 - [:book: Hatena](https://blog.toutounode.com)
 - [:book: note](https://note.com/tou_tou/)
